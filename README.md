@@ -57,4 +57,13 @@ Anticipate future trends using historical data and predictive indicators:
 
 ---
 
+## Teams Members 
+- **Thatavarthi.Venkata Naga Ganesh** -
+- **Kala Vinay Subhash** -
+- **Chandra Rekha** -
+- **Pagadala Srikanth** -
+
+
+
+
 
